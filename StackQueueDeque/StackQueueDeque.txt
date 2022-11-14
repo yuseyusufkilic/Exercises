@@ -1,0 +1,14 @@
+﻿
+
+
+STACK : Değer sakladığımız koleksiyon. (DİKEY HAYAL EDİLİYOR.)
+-Push eleman ekleme , pop çıkarma .
+-Last in first out. ( LIFO )
+-En son kısım top , en aşağısı base deniyor genelde.
+
+QUEUE: Burada ilk giren ilk çıkıyor. Gerçek hayatta bir sıra gibi. (YATAY HAYAL EDİLİYOR.)
+-Push pop , enqueu ve dequeu demek burda.
+-Top & base yerine de front & rear deniyor.
+
+DEQUE: Önden de arkadan da eleman girip çıkabiliyor. ( YATAY HAYAL EDİLİYOR YİNE. )
+-Front & rear.
