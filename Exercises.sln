@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMajority", "FindMajorit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueueDeque", "StackQueueDeque\StackQueueDeque.csproj", "{5789C99A-79B9-4B6C-8BA1-443B37A14477}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStackUsingQueue", "ImplementStackUsingQueue\ImplementStackUsingQueue.csproj", "{36B2FA5A-4601-4FE6-A3B9-60C2F62B77DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5789C99A-79B9-4B6C-8BA1-443B37A14477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5789C99A-79B9-4B6C-8BA1-443B37A14477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5789C99A-79B9-4B6C-8BA1-443B37A14477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B2FA5A-4601-4FE6-A3B9-60C2F62B77DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B2FA5A-4601-4FE6-A3B9-60C2F62B77DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B2FA5A-4601-4FE6-A3B9-60C2F62B77DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B2FA5A-4601-4FE6-A3B9-60C2F62B77DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
