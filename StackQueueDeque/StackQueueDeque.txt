@@ -3,7 +3,7 @@
 
 STACK : Değer sakladığımız koleksiyon. (DİKEY HAYAL EDİLİYOR.)
 -Push eleman ekleme , pop çıkarma .
--Last in first out. ( LIFO )
+-Last in first out. ( LIFO ) son giren ilk çıkar.
 -En son kısım top , en aşağısı base deniyor genelde.
 
 QUEUE: Burada ilk giren ilk çıkıyor. Gerçek hayatta bir sıra gibi. (YATAY HAYAL EDİLİYOR.)

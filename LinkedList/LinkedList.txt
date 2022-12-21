@@ -1,0 +1,18 @@
+﻿
+Liste elemanları contigous. Yani sondan ve art arda eklemeli (bellekte)
+Direkt belirli bir indexe insert yapınca,her şey sağa kaydığından, O(n)'e kayıyor, O(1)'den.
+
+Birbirine bağlı yapılar, node'lar. Head baş , tail kuyruk.
+Linked olan şeyler nodelar. 2 değer tutuluyor , 1. olan direkt değer , 2. olan sonraki node bilgisini tutuyor.
+["Yuse",Node2] , ["Yusuf",Node3].... gibi.
+     1.                2.  
+
+En sonuncusunun 2. index null oluyor, sonrasında bir şey yoksa.
+Linked listte ekleme kolay, okuma zor. Normal listenin tersi.
+
+** Doubly Linked List **
+
+Fark olarak ekstradan bir önceki değeri de tutuyor. [Önceki node,"Value",Sonraki node] gibi.
+Baş header , son trailer oluyor. Bunlar da düğüm aslında ama içi boş.
+
+
