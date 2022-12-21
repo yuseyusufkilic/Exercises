@@ -1,6 +1,7 @@
 ﻿
 Liste elemanları contigous. Yani sondan ve art arda eklemeli (bellekte)
 Direkt belirli bir indexe insert yapınca,her şey sağa kaydığından, O(n)'e kayıyor, O(1)'den.
+Index yok next , prev ile hareket ediyoz sadece.
 
 Birbirine bağlı yapılar, node'lar. Head baş , tail kuyruk.
 Linked olan şeyler nodelar. 2 değer tutuluyor , 1. olan direkt değer , 2. olan sonraki node bilgisini tutuyor.
@@ -14,5 +15,9 @@ Linked listte ekleme kolay, okuma zor. Normal listenin tersi.
 
 Fark olarak ekstradan bir önceki değeri de tutuyor. [Önceki node,"Value",Sonraki node] gibi.
 Baş header , son trailer oluyor. Bunlar da düğüm aslında ama içi boş.
+
+** Linked List içerisinde, tekrarlı verileri bulmada , FLOYD CYCLE DETECTION ALGORITHM kullanılıyor.
+https://udemy.com/course/yazilim-mulakatlari/learn/lecture/32435130#questions -> Floyd Cycle Detection Algorithm.
+Linked List problemlerinde genelde pointer atıyoz.
 
 
