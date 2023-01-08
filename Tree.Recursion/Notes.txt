@@ -1,0 +1,14 @@
+﻿-Dallanma şeklinde bir sistem var, linked list tarzı aslında.
+
+-Binary search tree için her zaman parent node ile child nodelar karşılaştırılır ;
+Sayı büyükse sağa,
+Küçükse sola yazılır.
+
+-En kötü senaryo aslında o(n) ama ortalamada o(logn)'de deniyor.
+En kötü olması için full büyük gelmesi lazım ve arka arkaya bağlanması lazım bunun pratikte olması çok zor. (Unbalanced binary search tree)
+
+------------------------------------------------------------------------------
+RECURSION
+
+
+
